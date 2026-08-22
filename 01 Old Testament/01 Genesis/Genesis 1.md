@@ -1,7 +1,8 @@
 
 ## Context in the Book 
 How Does this Chapter Fit into the Surrounding Chapters? 
-# Summary
+
+## Summary
 Short Summary of What Happens
 
 ## Structure
