@@ -125,7 +125,10 @@ See [[Biblical Words for Love#Philadelphia]]
 [[Purity]] : [[Church]] : [[Family]] : [[Christian Community]]
 ## Old Testament Examples
 
-## New Testament Examples 
+## New Testament Examples
+- [[John 3#John 3:16]]
+	"For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life"
+	- Jesus gave his life to the world to save the world from sin, death, and darkness
 
 ## Biblical Development 
 
