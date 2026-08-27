@@ -6,10 +6,12 @@ What does scripture teach about 'theme' as a whole?
 ## Definition/Scope
 What do I mean by this theme? 
 What is included or excluded?
-## Forms/Expressions of 'Theme'
+## Forms/Expressions of 'Love'
+- [[Friendship & Bortherly Love]]
+- [[Romantic & Marital Love]]
 
 ## Biblical Vocabulary
-See [[Biblical Words for Theme]]
+See [[Biblical Words for Love]]
 
 ## Biblical Development
 How does this theme develop through scripture?
