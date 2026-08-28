@@ -30,8 +30,6 @@ What does this passage teach me specifically about this theme?
 
 ## New Testament Examples 
 
-## Biblical Development 
-
 ## Christ Connection
 How does Jesus teach, model, fulfill, or transform our understanding of this theme? 
 

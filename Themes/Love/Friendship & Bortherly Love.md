@@ -128,18 +128,28 @@ See [[Biblical Words for Love#Philadelphia]]
 ## New Testament Examples
 - [[John 3#John 3:16]]
 	"For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life"
-	- Jesus gave his life to the world to save the world from sin, death, and darkness
-
-## Biblical Development 
+	- God the Father has sent Jesus, is one and only Son, from heave to earth to save the world from sin, death, and darkness
+- [[John 15#John 15:15]]
+	"No longer do I call you servants, for the servant does not know what his master is doing; but I have called you friends, for all that I have heard from my Father I have made known to you"
+	- Jesus teaches his apostles about abiding in him and loving one another, and the deep relationships he has with his disciples. 
+	- Jesus calls his apostles friends signifies intimacy, trust, and shared revelation before his crucifixion
 
 ## Christ Connection
 How does Jesus teach, model, fulfill, or transform our understanding of this theme? 
+- [[John 3]]
+- [[John 15]]
+- [[1 John 4]]
 
 ## Related Themes
-
+- [[Sacrifice]]
+- [[Obedience]]
+- [[Friendship]]
 ## Contrast/Counterexample 
 Examples where the opposite of this theme appears
-
+- [[Matthew 26#Matthew 26:16]]
+	"And from that moment he sought an opportunity to betray him"
+	- Also stated in [[Mark 14#Mark 14:11]]
+	- Judas Iscariot, one of the twelve disciples of Jesus, took thirty pieces of silver from the chief priests ([[Matthew 26#Matthew 26:15]]) to get Jesus arrested
 ## Questions 
 
 ## Applications 
