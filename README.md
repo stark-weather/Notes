@@ -35,6 +35,7 @@ This repository is continually growing as I continue studying Scripture.
 - [Connections Between Notes](#connections-between-notes)
 - [Templates](#templates)
 - [How to Browse These Notes](#how-to-browse-these-notes)
+- [How to Use These Notes in Obsidian](#how-to-use-these-notes-in-obsidian)
 - [Using This Repository With Obsidian](#using-this-repository-with-obsidian)
 - [Study Principles](#study-principles)
 - [Sources and Research](#sources-and-research)
@@ -733,6 +734,266 @@ For studies of individual biblical figures:
 ```text
 People/
 ```
+
+---
+
+# How to Use These Notes in Obsidian
+
+You can browse these notes directly on GitHub, but the repository is designed to work especially well as an [Obsidian](https://obsidian.md/) vault.
+
+## 1. Install Git
+
+Make sure Git is installed on your computer.
+
+You can check by opening a terminal and running:
+
+```bash
+git --version
+```
+
+If Git is installed, you should see a version number.
+
+---
+
+## 2. Choose Where You Want to Store the Notes
+
+Open a terminal in the folder where you want the Bible study vault to be stored.
+
+For example:
+
+```bash
+cd Documents
+```
+
+or navigate to any folder you normally use for notes.
+
+---
+
+## 3. Clone the Repository
+
+Run:
+
+```bash
+git clone https://github.com/stark-weather/Notes.git
+```
+
+This will create a new folder called:
+
+```text
+Notes
+```
+
+containing the Bible study vault.
+
+The folder should look similar to:
+
+```text
+Notes/
+├── 01 Old Testament/
+├── 02 New Testament/
+├── People/
+├── Templates/
+├── Themes/
+├── README.md
+└── .git/
+```
+
+Because this repository is public, you should not need a GitHub username, password, or access token simply to clone it.
+
+---
+
+## 4. Open the Folder as an Obsidian Vault
+
+Open Obsidian.
+
+Then choose:
+
+```text
+Open folder as vault
+```
+
+Select the newly cloned:
+
+```text
+Notes
+```
+
+folder.
+
+Obsidian will then treat the repository as a normal vault.
+
+---
+
+## 5. Obsidian Settings
+
+The `.obsidian` folder is intentionally excluded from this repository.
+
+That means your own Obsidian setup stays separate from mine.
+
+You can freely configure your own:
+
+- Theme
+- Plugins
+- Hotkeys
+- Workspace layout
+- Appearance
+- Editor settings
+
+without affecting the repository.
+
+Obsidian will create its own local `.obsidian` folder when you open the vault.
+
+---
+
+## Getting Updates
+
+I will continue updating this repository as I study.
+
+If you want to receive newer versions of the notes, open a terminal inside the cloned `Notes` folder and run:
+
+```bash
+git pull --ff-only
+```
+
+For example:
+
+```bash
+cd Notes
+git pull --ff-only
+```
+
+If you have not changed any of the notes yourself, Git should normally update your copy automatically.
+
+---
+
+## If You Edit the Notes Yourself
+
+You are welcome to modify your local copy for your own study.
+
+For example, you may want to:
+
+- Add your own observations
+- Add personal applications
+- Expand historical notes
+- Add cross-references
+- Change templates
+- Create new themes
+- Add your own Bible study notes
+
+Your changes remain on **your own device** unless you intentionally publish them somewhere else.
+
+You do not have permission to push directly to this repository unless you have specifically been added as a collaborator.
+
+### Important: Pulling After Making Your Own Changes
+
+If you edit the same files that I later update, Git may need to combine both versions when you pull.
+
+For example:
+
+```text
+You clone Genesis 1.md
+        ↓
+You add your own notes
+        ↓
+I update Genesis 1.md on GitHub
+        ↓
+You run git pull
+```
+
+If our changes affect different parts of the file, Git may combine them automatically.
+
+If we both changed the same lines, Git may report a **merge conflict**.
+
+This does not affect the original GitHub repository. The conflict only exists in your local copy and must be resolved before continuing.
+
+---
+
+## Recommended Workflow
+
+If you plan to edit the notes yourself while still receiving updates from this repository, I recommend:
+
+```text
+1. Pull the latest version
+
+2. Make your changes
+
+3. Save your work
+
+4. Pull again periodically
+```
+
+Before beginning a study session, you can run:
+
+```bash
+git pull --ff-only
+```
+
+This reduces the chance of conflicts.
+
+---
+
+## Keeping Your Own Notes Separate
+
+If you plan to heavily modify these notes, another good option is to keep your personal notes separate from the original files.
+
+For example:
+
+```text
+Notes/
+├── 01 Old Testament/
+├── 02 New Testament/
+├── People/
+├── Themes/
+├── Templates/
+└── My Notes/
+```
+
+You could place your personal observations inside:
+
+```text
+My Notes/
+```
+
+while leaving the original study notes mostly unchanged.
+
+This makes it easier to continue pulling updates from this repository without creating conflicts.
+
+---
+
+## Updating Without Obsidian
+
+Obsidian is not required to update the repository.
+
+You can always update the notes using Git alone:
+
+```bash
+cd Notes
+git pull --ff-only
+```
+
+Then reopen Obsidian and the updated notes should appear automatically.
+
+---
+
+## Quick Setup Summary
+
+The basic setup is:
+
+```text
+Install Git
+    ↓
+Clone the repository
+    ↓
+Open the cloned folder in Obsidian
+    ↓
+Study and explore the notes
+    ↓
+Run git pull --ff-only for future updates
+```
+
+Repository:
+
+**[stark-weather/Notes](https://github.com/stark-weather/Notes)**
 
 ---
 
