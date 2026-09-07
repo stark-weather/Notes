@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - bible-overview
+---
 # Book Name
 
 ## Author/Authorship
