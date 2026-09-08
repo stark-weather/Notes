@@ -214,17 +214,18 @@ cssclasses:
 
 ### Outline
 
-1. **Chapters __–__ —**
-   - 
+1. **Chapters 1–3**
+   - God's creation and ordering of heaven and earth 
+   - Earth's first people 
 
-2. **Chapters __–__ —**
-   - 
+1. **Chapters 3–11**
+   - Humanity's downward spiral and the flood 
 
-3. **Chapters __–__ —**
-   - 
+1. **Chapters 12:1-3**
+   - God blesses Abraham
 
-4. **Chapters __–__ —**
-   - 
+1. **Chapters 13-50**
+   - God's convenant with Abraham, Jacob, and Josp
 
 ---
 
