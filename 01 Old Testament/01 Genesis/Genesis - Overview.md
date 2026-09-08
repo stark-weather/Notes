@@ -13,7 +13,7 @@ cssclasses:
 > **Book Name:**  Genesis
 > **Author/Authorship:** Moses 
 > **Date Written:** 587-538 BCE 
-> **Period Covered:**  
+> **Period Covered:** 4,000 BCE - 1,806 BCE 
 > **Original Audience:**  
 > **Genre:**  
 
@@ -469,8 +469,8 @@ What does this book reveal about God's rule and kingdom?
 
 ### Study Bible
 
-- **ESV Study Bible:**
-  - 
+- **ESV Study Bible**
+- **Bible Hub**
 
 ### Bible Dictionaries / Encyclopedias
 
