@@ -13,7 +13,7 @@ cssclasses:
 > **Book Name:**  Genesis
 > **Author/Authorship:** Moses 
 > **Date Written:** 587-538 BCE 
-> **Period Covered:** 4,000 BCE - 1,806 BCE 
+> **Period Covered:** Creation to the death of Joseph and Israel's family settling in Egypt 
 > **Original Audience:** Nation of Israel (Generation in the Wilderness)  
 > **Genre:** Theological & Historical  
 
