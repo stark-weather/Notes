@@ -207,12 +207,10 @@ cssclasses:
 
 ### Major Divisions
 
-| Chapters       | Section | Main Focus |
-| -------------- | ------- | ---------- |
-| Chapter 1 - 11 |         |            |
-|                |         |            |
-|                |         |            |
-|                |         |            |
+| Chapters | Section             | Main Focus                                                 |
+| -------- | ------------------- | ---------------------------------------------------------- |
+| 1 - 11   | Primeval History    | Origins of creation, humanity, sin, judgement, and nations |
+| 12 - 50  | Patriarchal History | God's covenant work through Abraham and his descendants    |
 
 ### Outline
 
