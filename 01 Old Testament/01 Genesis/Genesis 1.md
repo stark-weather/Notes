@@ -257,7 +257,7 @@ What does the passage mean in its literary, historical, and biblical context?
 ## Verses __–__ — Passage Title
 
 > [!quote] Passage
-> Add the verse(s) here if helpful.
+> "So God created man in his own image, in the image of God he created him; male and female he created them." [[Genesis 1#Genesis 1:27]]
 
 ### Observations
 
@@ -289,8 +289,7 @@ What does the passage mean in its literary, historical, and biblical context?
 - 
 
 ### Connections
-
-- 
+- [[Covenant]]
 
 ### Application
 
