@@ -215,7 +215,8 @@ What does the passage mean in its literary, historical, and biblical context?
 "the heavens and the earth" (בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ - pairing of 'shamayim' and 'erets')
 - establishing totality of creation under divine authority of God
 
-
+"form" (תֹהוּ - tohu)
+- 
 
 ### Historical / Cultural Notes
 - 
