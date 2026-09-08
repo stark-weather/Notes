@@ -225,7 +225,9 @@ What does the passage mean in its literary, historical, and biblical context?
 - often paired with tohu
 - also appears in [[Isaiah 34#Isaiah 34:11]], [[Jeremiah 4#Jeremiah 4:23]]
 
-"form and void" ()
+"form and void" (תהו ובהו - tohu v’vohu)
+- describes the pre-creation state of the earth 
+- use of parallelisms with multiple words to express one idea 
 ### Historical / Cultural Notes
 - 
 
@@ -667,6 +669,9 @@ What can I pray about because of what I learned?
 ### Hebrew / Greek Resources
 
 - **[AncientHebrew]([Genesis 1:2: Tohu v’Vohu](https://www.ancient-hebrew.org/library/benners-commentary-on-the-torah/verses/genesis-1-2.html))**
+- **[Genesis 1:1 - Translations]([Genesis 1:1 Hebrew Text Analysis](https://biblehub.com/text/genesis/1-1.htm))**
+- **[Genesis 1:2 - Translations]([Genesis 1:2 Hebrew Text Analysis](https://biblehub.com/text/genesis/1-2.htm))**
+- **[Hebroni]([Verse Studies — Genesis 1 in Biblical Hebrew | Hebroni](https://hebroni.com/blog/))**
 
 ### Other Resources
 
