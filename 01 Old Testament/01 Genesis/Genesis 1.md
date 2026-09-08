@@ -240,8 +240,11 @@ What does the passage mean in its literary, historical, and biblical context?
 - highlights God's spirit and the distinct role from God himself 
 
 "man" - (אָדָם - adam)
+- linguistically linked to adamah (אֲדָמָה) meaning "ground", or "earth"
+	- shows the biblical idea that humans were formed from dust/earth connecting the physical and spiritual relationship between humans and creation 
 - refer to the first human created by God 
-- primarily denotes humanity as a qwh
+- primarily denotes humanity as a whole including both male and female made in the image of God
+	- emphasizes that all humans, regardless of the gender, reflects divine nature like rationality, morality, and relational capacity
 ### Historical / Cultural Notes
 - 
 
