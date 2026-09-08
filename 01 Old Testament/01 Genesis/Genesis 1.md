@@ -231,9 +231,11 @@ What does the passage mean in its literary, historical, and biblical context?
 - use of parallelisms with multiple words to express one idea 
 
 "the Spirit of God" (רוּחַ אֱלֹהִים - ruach Elohim)
+- represents the divine Spirit of God actively  present over primordial waters 
 - ruach (רוּחַ) can mean "spirit", "wind", or "breath"
 	- root verb meaning "to blow" or "to breathe
 	- conveys as divine, life-giving presence moving over the waters in [[Genesis 1#Genesis 1:2]]
+- elohim (אֱלֹהִים)
 ### Historical / Cultural Notes
 - 
 
@@ -678,6 +680,7 @@ What can I pray about because of what I learned?
 - **[Genesis 1:1 - Translations]([Genesis 1:1 Hebrew Text Analysis](https://biblehub.com/text/genesis/1-1.htm))**
 - **[Genesis 1:2 - Translations]([Genesis 1:2 Hebrew Text Analysis](https://biblehub.com/text/genesis/1-2.htm))**
 - **[Hebroni]([Verse Studies — Genesis 1 in Biblical Hebrew | Hebroni](https://hebroni.com/blog/))**
+- **[Associates for Biblical Research]([Is “Spirit Of God” The Correct Translation In Genesis 1:2 After All? | Associates For Biblical Research](https://biblearchaeology.org/research-articles/is-spirit-of-god-the-correct-translation-in-genesis-1-2-after-all/))**
 
 ### Other Resources
 
