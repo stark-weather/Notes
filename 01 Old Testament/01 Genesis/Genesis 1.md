@@ -67,11 +67,11 @@ Break the chapter into its major passages, scenes, speeches, or sections.
 
 ### Flow of the Chapter
 
-1. **vv. __–__ —**
-   - 
+1. **vv. 1-2**
+   - The beginning of the creation
 
-2. **vv. __–__ —**
-   - 
+1. **vv. 3-13**
+   - God creates large realms like light/darkness, seas/land/sky 
 
 3. **vv. __–__ —**
    - 
