@@ -448,25 +448,23 @@ Does this chapter directly or indirectly point toward Christ, the Messiah, or Go
 ### Main Key Verse
 
 > [!quote] Key Verse
-> **Book Chapter:Verse**
+> **Genesis 1:1-2**
 >
-> "Verse goes here."
+> "In the beginning, God created the heavens and the earth. The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters."
 
 ### Why Is This Verse Important?
-
 - 
 
 ### Other Important Verses
 
-#### Verse __
+#### Verse 26-27
 
-> 
+> ""
 
 **Significance:**
-
 - 
 
-#### Verse __
+#### Verse 28, 31
 
 > 
 
