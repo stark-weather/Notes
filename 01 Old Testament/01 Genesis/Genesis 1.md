@@ -51,7 +51,7 @@ How does this chapter prepare for what follows?
 
 **What is the central point of this chapter?**
 
-> 
+> The creation of all creations; land and seas, animals and humans
 
 ---
 
