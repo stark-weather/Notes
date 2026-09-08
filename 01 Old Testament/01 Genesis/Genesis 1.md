@@ -230,7 +230,10 @@ What does the passage mean in its literary, historical, and biblical context?
 	- [gap theory]([What is the Gap Theory? Did anything happen between Genesis 1:1 and 1:2? | GotQuestions.org](https://www.gotquestions.org/gap-theory.html)) by Thomas Chalmers 
 - use of parallelisms with multiple words to express one idea 
 
-"the Spirit of God" (רוּחַ אֱלֹהִים)
+"the Spirit of God" (רוּחַ אֱלֹהִים - ruach Elohim)
+- ruach (רוּחַ) can mean "spirit", "wind", or "breath"
+	- root verb meaning "to blow" or "to breathe
+	- conveys as divine, life-giving presence moving over the waters in [[Genesis 1#Genesis 1:2]]
 ### Historical / Cultural Notes
 - 
 
