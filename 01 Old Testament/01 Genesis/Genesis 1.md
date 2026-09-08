@@ -119,6 +119,9 @@ Things noticed directly from reading the biblical text **before consulting comme
 ### Repeated Words / Phrases
 
 - "And God saw that it was good."
+- "God said"
+- "God"
+- "good"
 
 ### Commands
 
@@ -129,7 +132,9 @@ Things noticed directly from reading the biblical text **before consulting comme
 - "Let there be lights in the expanse of the heavens to separate the day from the night. And let them be for signs and for seasons, and for days and years, and let them be lights in the expanse of the heavens to give light upon the earth." [[Genesis 1#Genesis 1:14]]
 - "Let the waters swarm with swarms of living creatures, and let birds fly above the earth across the expanse of the heavens." [[Genesis 1#Genesis 1:20]]
 - "Be fruitful and multiply and fill the waters in the seas, and let birds multiply on the earth." [[Genesis 1#Genesis 1:22]]
-- 
+- "Let the earth bring forth living creatures according to their kinds - live-stock and creeping things and beasts of the earth according to their kinds." [[Genesis 1#Genesis 1:24]]
+- "Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth" [[Genesis 1#Genesis 1:26]]
+- "Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth." [[Genesis 1#Genesis 1:28]]
 
 ### Promises
 
@@ -240,7 +245,7 @@ What does the passage mean in its literary, historical, and biblical context?
 
 ### What This Reveals About God
 
-- 
+- His dominion 
 
 ### What This Reveals About Humanity
 
