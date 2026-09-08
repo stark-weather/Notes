@@ -216,8 +216,16 @@ What does the passage mean in its literary, historical, and biblical context?
 - establishing totality of creation under divine authority of God
 
 "form" (תֹהוּ - tohu)
-- 
+- means "wasteness", "desert", "emptiness", "chaos", or "desolation"
+	- implies vanity or emptiness in poetic/prophetic context
+	- describes the formlessness of the earth, of no shape, structure, or order yet in [ [Genesis 1#Genesis 1:2]]
 
+"void" (וָבֹהוּ - bohu)
+- understood as "emptiness", "voidness", "barrenness"
+- often paired with tohu
+- also appears in [[Isaiah 34#Isaiah 34:11]], [[Jeremiah 4#Jeremiah 4:23]]
+
+"form and void" ()
 ### Historical / Cultural Notes
 - 
 
@@ -658,7 +666,7 @@ What can I pray about because of what I learned?
 
 ### Hebrew / Greek Resources
 
-- 
+- **[AncientHebrew]([Genesis 1:2: Tohu v’Vohu](https://www.ancient-hebrew.org/library/benners-commentary-on-the-torah/verses/genesis-1-2.html))**
 
 ### Other Resources
 
