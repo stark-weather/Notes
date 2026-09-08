@@ -459,17 +459,21 @@ Does this chapter directly or indirectly point toward Christ, the Messiah, or Go
 
 #### Verse 26-27
 
-> ""
+> "Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea ... So God created man in his own image, in the image of God he created him, male and female he created them."
+
+**Significance:**
+- 
+#### Verse 28
+
+> "Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of t he seas ..."
 
 **Significance:**
 - 
 
-#### Verse 28, 31
+#### Verse 31
+>And God saw everything that he had made, and behold it, it was very good."
 
-> 
-
-**Significance:**
-
+**Significance:** 
 - 
 
 ---
