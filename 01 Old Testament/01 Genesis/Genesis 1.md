@@ -13,8 +13,8 @@ cssclasses:
 > **Book:**  Genesis
 > **Chapter:**  1
 > **Main Event / Topic:** Creation
-> **Main Theme:**  
-> **Key Verse:**  
+> **Main Theme:** Creation 
+> **Key Verse:** Genesis 1:1 
 
 ---
 
@@ -24,19 +24,19 @@ cssclasses:
 
 What happened in the previous chapter or section that leads into this chapter?
 
-- 
+- Genesis 1 is the first chapter of Genesis, which is the first book of the five books of the Pentateuch, or the Torah
 
 ### How This Chapter Fits
 
 How does this chapter fit into the surrounding chapters and the overall argument/story of the book?
 
-- 
+- This is the beginning of creation, humans, sin, judgement, and nations 
 
 ### What Comes Next?
 
 How does this chapter prepare for what follows?
 
-- 
+- This chapter prepares for CH
 
 ---
 
