@@ -195,8 +195,8 @@ What does the passage mean in its literary, historical, and biblical context?
 
 ### Important Words / Phrases
 
-**Word / Phrase:**  
-
+**Word / Phrase:** "In the beginning" (בראשית - Bereshith)
+- 
 - Meaning:
 - Significance:
 
@@ -623,12 +623,12 @@ What can I pray about because of what I learned?
 
 ### Bible
 
-- **ESV:**
+- **ESV**
 
 ### Study Bible
 
-- **ESV Study Bible:**
-  - 
+- **ESV Study Bible**
+- **FamilyBible.org**
 
 ### Commentaries
 
