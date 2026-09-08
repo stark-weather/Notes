@@ -238,6 +238,10 @@ What does the passage mean in its literary, historical, and biblical context?
 - elohim (אֱלֹהִים) plural form of "God", used to denote "supreme God"
 	- root from El (אֵל - god/mighty one) with the plural suffix -im
 - highlights God's spirit and the distinct role from God himself 
+
+"man" - (אָדָם - adam)
+- refer to the first human created by God 
+- primarily denotes humanity as a qwh
 ### Historical / Cultural Notes
 - 
 
@@ -683,6 +687,7 @@ What can I pray about because of what I learned?
 - **[Genesis 1:2 - Translations]([Genesis 1:2 Hebrew Text Analysis](https://biblehub.com/text/genesis/1-2.htm))**
 - **[Hebroni]([Verse Studies — Genesis 1 in Biblical Hebrew | Hebroni](https://hebroni.com/blog/))**
 - **[Associates for Biblical Research]([Is “Spirit Of God” The Correct Translation In Genesis 1:2 After All? | Associates For Biblical Research](https://biblearchaeology.org/research-articles/is-spirit-of-god-the-correct-translation-in-genesis-1-2-after-all/))**
+- **[Study Light]([Genesis 1:27 - Interlinear Study Bible](https://www.studylight.org/interlinear-study-bible/hebrew/genesis/1-27.html))**
 
 ### Other Resources
 
