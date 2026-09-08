@@ -196,8 +196,10 @@ What does the passage mean in its literary, historical, and biblical context?
 ### Important Words / Phrases
 
 **Word / Phrase:** "In the beginning" (בראשית - Bereshith)
-- 
-- Meaning:
+- prefix "be-" meaning "in" and "reshith meaning "beginning" or "first"
+	- translates as "in the beginning" or "in the start"
+	- root word ראש - rosh meaning "head" embedded in the word 
+- Meaning: 
 - Significance:
 
 ### Historical / Cultural Notes
