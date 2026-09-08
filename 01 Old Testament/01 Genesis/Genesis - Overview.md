@@ -11,8 +11,8 @@ cssclasses:
 
 > [!summary] Book at a Glance
 > **Book Name:**  Genesis
-> **Author/Authorship:** Moses 
-> **Date Written:** 587-538 BCE 
+> **Author/Authorship:** Traditionally, ascribed to Moses like the rest of the Pentateuch 
+> **Date Written:** Depends on Pentateuchal authorship and composition
 > **Period Covered:** Creation to the death of Joseph and Israel's family settling in Egypt 
 > **Original Audience:** Nation of Israel (Generation in the Wilderness)  
 > **Genre:** Theological & Historical  
@@ -81,9 +81,11 @@ cssclasses:
 
 ### Major Locations
 
-- [[]]
-- [[]]
-- [[]]
+- [[Near East]]
+- [[Egypt]]
+- [[Assyria]]
+- [[Babylon]]
+- [[Elam]]
 
 ### Geographic Significance
 
@@ -122,13 +124,13 @@ cssclasses:
 
 ## 👥 Major Characters
 
-| Person | Role | Importance |
-| --- | --- | --- |
-| [[]] |  |  |
-| [[]] |  |  |
-| [[]] |  |  |
-| [[]] |  |  |
-| [[]] |  |  |
+| Person   | Role | Importance |
+| -------- | ---- | ---------- |
+| [[Adam]] |      |            |
+| [[Eve]]  |      |            |
+| [[]]     |      |            |
+| [[]]     |      |            |
+| [[]]     |      |            |
 
 ### Character Notes
 
@@ -205,12 +207,12 @@ cssclasses:
 
 ### Major Divisions
 
-| Chapters | Section | Main Focus |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Chapters       | Section | Main Focus |
+| -------------- | ------- | ---------- |
+| Chapter 1 - 11 |         |            |
+|                |         |            |
+|                |         |            |
+|                |         |            |
 
 ### Outline
 
