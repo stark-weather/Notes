@@ -21,7 +21,6 @@ cssclasses:
 ## 🧭 Context in the Book
 
 ### What Came Before?
-
 What happened in the previous chapter or section that leads into this chapter?
 
 - Genesis 1 is the first chapter of Genesis, which is the first book of the five books of the Pentateuch, or the Torah
@@ -29,11 +28,9 @@ What happened in the previous chapter or section that leads into this chapter?
 ### How This Chapter Fits
 
 How does this chapter fit into the surrounding chapters and the overall argument/story of the book?
-
 - This is the beginning of creation, humans, sin, judgement, and nations 
 
 ### What Comes Next?
-
 How does this chapter prepare for what follows?
 
 - This chapter prepares for the creation man and woman and the fall of humanity 
@@ -88,23 +85,18 @@ Break the chapter into its major passages, scenes, speeches, or sections.
 Only include background information that directly helps explain this chapter.
 
 ### Historical Context
-
 - 
 
 ### Cultural Context
-
 - 
 
 ### Religious Context
-
 - 
 
 ### Geography
-
 - 
 
 ### Important Customs / Practices
-
 - 
 
 > [!info] Why This Matters
@@ -119,14 +111,12 @@ Only include background information that directly helps explain this chapter.
 Things noticed directly from reading the biblical text **before consulting commentaries or other sources**.
 
 ### Repeated Words / Phrases
-
 - "And God saw that it was good."
 - "God said"
 - "God"
 - "good"
 
 ### Commands
-
 - "Let there be light." [[Genesis 1#Genesis 1:3]]
 - "Let there be an expanse in the midst of the waters, and let it separate the waters from the waters." [[Genesis 1#Genesis 1:6]]
 - "Let the waters under the heavens be gather together into one place, and let the dry land appear." [[Genesis 1#Genesis 1:9]]
@@ -139,31 +129,24 @@ Things noticed directly from reading the biblical text **before consulting comme
 - "Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth." [[Genesis 1#Genesis 1:28]]
 
 ### Promises
-
 - 
 
 ### Warnings
-
 - 
 
 ### Contrasts
-
 - 
 
 ### Cause & Effect
-
 - 
 
 ### People
-
 - [[]]
 
 ### Places
-
 - [[]]
 
 ### Other Observations
-
 - 
 - 
 - 
@@ -412,12 +395,10 @@ What does this chapter show about God's authority?
 
 ### What Came Before
 How does this chapter build upon events, promises, covenants, or themes that came earlier in Scripture?
-
 - 
 
 ### What Comes After
 How does this chapter prepare for later events or teachings?
-
 - 
 
 ### Creation
@@ -437,7 +418,6 @@ How does this chapter prepare for later events or teachings?
 
 ### Messiah / Jesus
 Does this chapter directly or indirectly point toward Christ, the Messiah, or God's plan of redemption?
-
 - 
 
 > [!tip] Biblical Story
