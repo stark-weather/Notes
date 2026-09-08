@@ -245,7 +245,7 @@ What does the passage mean in its literary, historical, and biblical context?
 
 ### What This Reveals About God
 
-- His dominion 
+- 
 
 ### What This Reveals About Humanity
 
