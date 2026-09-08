@@ -199,29 +199,24 @@ What does the passage mean in its literary, historical, and biblical context?
 - prefix "be-" meaning "in" and "reshith meaning "beginning" or "first"
 	- translates as "in the beginning" or "in the start"
 	- root word ראש - rosh meaning "head" embedded in the word 
-- Meaning: 
-- Significance:
+- Meaning: It was the start to all creation, the start to the universe that exists today
+- Significance: The origin/head of creation, the universe, the Torah, establishing order, and the creation of humanity 
 
 ### Historical / Cultural Notes
-
 - 
 
 ### What This Reveals About God
-
 - 
 
 ### What This Reveals About Humanity
-
 - 
 
 ### Connections
-
 - [[Related Passage]]
 - [[Related Theme]]
 - [[Related Person]]
 
 ### Application
-
 - 
 
 ---
