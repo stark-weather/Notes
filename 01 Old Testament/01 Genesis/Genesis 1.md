@@ -182,12 +182,10 @@ Study each major section of the chapter separately.
 > "In the beginning, God created the heavens and the earth. The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters." [[Genesis 1#Genesis 1:1-2]]
 
 ### Observations
-
 What does the text actually say?
 - 
 
 ### Interpretation
-
 What does the passage mean in its literary, historical, and biblical context?
 - 
 
@@ -360,36 +358,26 @@ What does the passage mean in its literary, historical, and biblical context?
 ## ✝️ What This Chapter Reveals About God
 
 ### God's Character
-
 What qualities or attributes of God are shown?
-
 - 
 
 ### God's Actions
-
 What does God do?
-
 - 
 
 ### God's Purposes
-
 What is God accomplishing?
-
 - 
 
 ### God's Authority
-
 What does this chapter show about God's authority?
-
 - 
 
 ### God's Promises
-
 - 
 
 ### God's Relationship With People
-
-- 
+- God created man, both male and female, in his image
 
 > [!important] Main Truth About God
 > If I could remember one thing this chapter teaches about God, it would be:
@@ -401,27 +389,21 @@ What does this chapter show about God's authority?
 ## 🧍 What This Chapter Reveals About Humanity
 
 ### Human Nature
-
 - 
 
 ### Faith / Unbelief
-
 - 
 
 ### Obedience / Disobedience
-
 - 
 
 ### Sin
-
 - 
 
 ### Relationships
-
 - 
 
 ### Human Response to God
-
 - 
 
 ---
@@ -429,39 +411,31 @@ What does this chapter show about God's authority?
 ## 🌎 Biblical Story Connections
 
 ### What Came Before
-
 How does this chapter build upon events, promises, covenants, or themes that came earlier in Scripture?
 
 - 
 
 ### What Comes After
-
 How does this chapter prepare for later events or teachings?
 
 - 
 
 ### Creation
-
 - 
 
 ### Fall / Sin
-
 - 
 
 ### Covenant
-
 - 
 
 ### Redemption
-
 - 
 
 ### Kingdom
-
 - 
 
 ### Messiah / Jesus
-
 Does this chapter directly or indirectly point toward Christ, the Messiah, or God's plan of redemption?
 
 - 
