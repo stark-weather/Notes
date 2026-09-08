@@ -249,7 +249,7 @@ What does the passage mean in its literary, historical, and biblical context?
 - 
 
 ### What This Reveals About God
-- 
+- It is more than telling about the creation of the world, but designed to show that God's purpose is to share his creation with his images so that 
 
 ### What This Reveals About Humanity
 - 
