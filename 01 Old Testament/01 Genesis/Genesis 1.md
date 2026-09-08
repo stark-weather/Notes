@@ -122,7 +122,11 @@ Things noticed directly from reading the biblical text **before consulting comme
 
 ### Commands
 
-- "Let there be light."
+- "Let there be light." [[Genesis 1#Genesis 1:3]]
+- "Let there be an expanse in the midst of the waters, and let it separate the waters from the waters." [[Genesis 1#Genesis 1:6]]
+- "Let the waters under the heavens be gather together into one place, and let the dry land appear." [[Genesis 1#Genesis 1:9]]
+- "Let the earth sprout vegetation, plants, yielding seed, and fruit trees bearing fruit in which is their see, each according to its kind, on the earth." [[Genesis 1: Genesis 1:11]]
+- "Let there be lights in the expanse of the heavens to separate the day from the night. And let them be for signs and for seasons, and for days and years, and let them be lights in the expanse of the heavens to give light upon the earth."
 
 ### Promises
 
