@@ -12,7 +12,7 @@ cssclasses:
 > [!summary] Book at a Glance
 > **Book Name:**  Genesis
 > **Author/Authorship:** Moses 
-> **Date Written:** 587-538  
+> **Date Written:** 587-538 BCE 
 > **Period Covered:**  
 > **Original Audience:**  
 > **Genre:**  
