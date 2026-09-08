@@ -208,7 +208,11 @@ What does the passage mean in its literary, historical, and biblical context?
 - The meaning in [[Genesis 1#Gensis 1:1]] as "the heavens"
 
 "earth" (אֶרֶץ - erets)
-- broad meaning including "land", "ground", ""
+- broad meaning including "land", "ground", "country", or "territory"
+- referred in [[Genesis 1#Gensis 1:1]] as the entire planet
+
+"the heavens and the earth" (בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ - pairing of 'shamayim' and 'erets')
+- 
 
 ### Historical / Cultural Notes
 - 
@@ -633,7 +637,8 @@ What can I pray about because of what I learned?
 ### Study Bible
 
 - **ESV Study Bible**
-- **FamilyBible.org**
+- **[FamilyBible]([Genesis 1 — In the Beginning: A Commentary on Creation | FamilyBible.org](https://familybible.org/scripture/genesis-1-commentary/))**
+- **[ChristianPublishes]([Is the Hebrew Word for "Earth" in Genesis 1:1 and 1:10 the Same, and Do They Mean the Same Thing?](https://www.christianpublishers.org/post/is-the-hebrew-word-for-earth-in-genesis-1-1-and-1-10-the-same-and-do-they-mean-the-same-thing))**
 
 ### Commentaries
 
