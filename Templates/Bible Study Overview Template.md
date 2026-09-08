@@ -10,7 +10,7 @@ cssclasses:
 # {{Book Name}} - Overview
 
 > [!summary] Book at a Glance
-> **Book Name:**  Genesis
+> **Book Name:** 
 > **Author/Authorship:**  
 > **Date Written:**  
 > **Period Covered:**  
