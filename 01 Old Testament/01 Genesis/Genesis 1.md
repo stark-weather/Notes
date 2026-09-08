@@ -519,77 +519,57 @@ Does this chapter directly or indirectly point toward Christ, the Messiah, or Go
 ## 💡 Major Lessons
 
 ### About God
-
-- His is all powerful
+- His is eternal, divine, and all powerful
 
 ### About Faith
-
 - 
 
 ### About Sin
-
 - 
 
 ### About Relationships
-
 - This is the beginning of a relationship/covenant between man and God, when He created man in his image
 
 ### About Obedience
-
 - 
 
 ### About God's Plan
-
-- Creation
+-  To share his creation with his images to rule and rest with him forever 
 
 ---
 
 ## 🙏 Application
 
 ### Beliefs
-
 **What should change or become stronger in what I believe?**
-
 - 
 
 ### Thinking
-
 **How should this chapter change the way I think?**
-
 - 
 
 ### Behavior
-
 **Is there something I need to start, stop, or change?**
-
 - 
 
 ### Relationships
-
 **How should this affect the way I treat other people?**
-
 - 
 
 ### Worship
-
 **How should what I learned about God affect my worship?**
-
 - 
 
 ### Example to Follow
-
 - 
 
 ### Example to Avoid
-
 - 
 
 ### Command to Obey
-
 - 
 
 ### Promise to Trust
-
 - 
 
 > [!success] Main Application
@@ -603,7 +583,7 @@ Does this chapter directly or indirectly point toward Christ, the Messiah, or Go
 
 What can I pray about because of what I learned?
 
-> 
+> The continuation of transformation in his image 
 > 
 
 ---
