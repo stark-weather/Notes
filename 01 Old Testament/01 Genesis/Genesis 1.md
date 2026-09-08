@@ -179,22 +179,19 @@ Study each major section of the chapter separately.
 ## Verses __–__ — Passage Title
 
 > [!quote] Passage
-> Add the verse(s) here if helpful.
+> "In the beginning, God created the heavens and the earth. The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters." [[Genesis 1#Genesis 1:1-2]]
 
 ### Observations
 
 What does the text actually say?
-
 - 
 
 ### Interpretation
 
 What does the passage mean in its literary, historical, and biblical context?
-
 - 
 
 ### Important Words / Phrases
-
 **Word / Phrase:** 
 "In the beginning" (בראשית - Bereshith)
 - prefix "be-" meaning "in" and "reshith meaning "beginning" or "first"
@@ -238,25 +235,18 @@ What does the passage mean in its literary, historical, and biblical context?
 - elohim (אֱלֹהִים) plural form of "God", used to denote "supreme God"
 	- root from El (אֵל - god/mighty one) with the plural suffix -im
 - highlights God's spirit and the distinct role from God himself 
-
-"man" - (אָדָם - adam)
-- linguistically linked to adamah (אֲדָמָה) meaning "ground", or "earth"
-	- shows the biblical idea that humans were formed from dust/earth connecting the physical and spiritual relationship between humans and creation 
-- refer to the first human created by God 
-- primarily denotes humanity as a whole including both male and female made in the image of God
-	- emphasizes that all humans, regardless of the gender, reflects divine nature like rationality, morality, and relational capacity
 ### Historical / Cultural Notes
 - 
 
 ### What This Reveals About God
-- It is more than telling about the creation of the world, but designed to show that God's purpose is to share his creation with his images so that 
+- 
 
 ### What This Reveals About Humanity
 - 
 
 ### Connections
 - [[Related Passage]]
-- [[Related Theme]]
+- [[Creation]]
 - [[Related Person]]
 
 ### Application
@@ -278,8 +268,13 @@ What does the passage mean in its literary, historical, and biblical context?
 - 
 
 ### Important Words / Phrases
-
-- 
+**Words/Phrases:**
+"man" - (אָדָם - adam)
+- linguistically linked to adamah (אֲדָמָה) meaning "ground", or "earth"
+	- shows the biblical idea that humans were formed from dust/earth connecting the physical and spiritual relationship between humans and creation 
+- refer to the first human created by God 
+- primarily denotes humanity as a whole including both male and female made in the image of God
+	- emphasizes that all humans, regardless of the gender, reflects divine nature like rationality, morality, and relational capacity
 
 ### Historical / Cultural Notes
 
@@ -325,8 +320,7 @@ What does the passage mean in its literary, historical, and biblical context?
 - 
 
 ### What This Reveals About God
-
-- 
+- It is more than telling about the creation of the world, but designed to show that God's purpose is to share his creation with his images so they can rest and rule with him forever
 
 ### What This Reveals About Humanity
 
