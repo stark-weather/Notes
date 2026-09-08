@@ -195,12 +195,16 @@ What does the passage mean in its literary, historical, and biblical context?
 
 ### Important Words / Phrases
 
-**Word / Phrase:** "In the beginning" (בראשית - Bereshith)
+**Word / Phrase:** 
+"In the beginning" (בראשית - Bereshith)
 - prefix "be-" meaning "in" and "reshith meaning "beginning" or "first"
 	- translates as "in the beginning" or "in the start"
 	- root word ראש - rosh meaning "head" embedded in the word 
 - Meaning: It was the start to all creation, the start to the universe that exists today
 - Significance: The origin/head of creation, the universe, the Torah, establishing order, and the creation of humanity 
+
+"Heavens" (שָׁמַיִם - Shamayim)
+- standard Hebrew term for "heaven(s)"
 
 ### Historical / Cultural Notes
 - 
