@@ -203,8 +203,12 @@ What does the passage mean in its literary, historical, and biblical context?
 - Meaning: It was the start to all creation, the start to the universe that exists today
 - Significance: The origin/head of creation, the universe, the Torah, establishing order, and the creation of humanity 
 
-"Heavens" (שָׁמַיִם - Shamayim)
+"the heavens" (הַשָּׁמַ֖יִם - Shamayim)
 - standard Hebrew term for "heaven(s)"
+- The meaning in [[Genesis 1#Gensis 1:1]] as "the heavens"
+
+"earth" (אֶרֶץ - erets)
+- broad meaning including "land", "ground", ""
 
 ### Historical / Cultural Notes
 - 
