@@ -73,11 +73,13 @@ Break the chapter into its major passages, scenes, speeches, or sections.
 1. **vv. 3-13**
    - God creates large realms like light/darkness, seas/land/sky 
 
-3. **vv. __–__ —**
-   - 
+1. **vv. 14-25**
+   - God creates vegetation/animals for the seas/land/sky
+   - God creates the sun and stars/moon
+	   - The greater light to rule the day, and the lesser light to rule the night
 
-4. **vv. __–__ —**
-   - 
+1. **vv. 26-31**
+   - God created man in his image and gave man dominion over the earth
 
 ---
 
@@ -492,8 +494,8 @@ Does this chapter directly or indirectly point toward Christ, the Messiah, or Go
 > [!question] Questions to Investigate
 > Things I do not understand, want to research further, or want to ask someone about.
 
-- [ ] 
-- [ ] 
+- [ ] Why did God created the heavens and the earth? 
+- [ ] Why did God created man to have dominion over the earth? 
 - [ ] 
 - [ ] 
 
@@ -511,7 +513,7 @@ Does this chapter directly or indirectly point toward Christ, the Messiah, or Go
 
 ### About God
 
-- 
+- His is all powerful
 
 ### About Faith
 
@@ -523,7 +525,7 @@ Does this chapter directly or indirectly point toward Christ, the Messiah, or Go
 
 ### About Relationships
 
-- 
+- This is the beginning of a relationship/covenant between man and God, when He created man in his image
 
 ### About Obedience
 
@@ -531,7 +533,7 @@ Does this chapter directly or indirectly point toward Christ, the Messiah, or Go
 
 ### About God's Plan
 
-- 
+- Creation
 
 ---
 
