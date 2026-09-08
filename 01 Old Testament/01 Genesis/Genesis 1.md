@@ -235,7 +235,9 @@ What does the passage mean in its literary, historical, and biblical context?
 - ruach (רוּחַ) can mean "spirit", "wind", or "breath"
 	- root verb meaning "to blow" or "to breathe
 	- conveys as divine, life-giving presence moving over the waters in [[Genesis 1#Genesis 1:2]]
-- elohim (אֱלֹהִים)
+- elohim (אֱלֹהִים) plural form of "God", used to denote "supreme God"
+	- root from El (אֵל - god/mighty one) with the plural suffix -im
+- highlights God's spirit and the distinct role from God himself 
 ### Historical / Cultural Notes
 - 
 
