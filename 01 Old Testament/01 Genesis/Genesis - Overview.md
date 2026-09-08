@@ -225,7 +225,7 @@ cssclasses:
    - God blesses Abraham
 
 1. **Chapters 13-50**
-   - God's convenant with Abraham, Jacob, and Josp
+   - God's covenant with Abraham, Jacob, and Joseph 
 
 ---
 
@@ -233,12 +233,12 @@ cssclasses:
 
 ### Major Events
 
-| Event | Approximate Date | Scripture |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Event    | Approximate Date | Scripture                   |
+| -------- | ---------------- | --------------------------- |
+| Creation |                  | [[Genesis 1#Genesis 1:1-1]] |
+|          |                  |                             |
+|          |                  |                             |
+|          |                  |                             |
 
 ### Where This Book Fits in Biblical History
 
