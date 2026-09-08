@@ -36,7 +36,7 @@ How does this chapter fit into the surrounding chapters and the overall argument
 
 How does this chapter prepare for what follows?
 
-- This chapter prepares for CH
+- This chapter prepares for the creation man and woman and the fall of humanity 
 
 ---
 
@@ -59,12 +59,11 @@ How does this chapter prepare for what follows?
 
 Break the chapter into its major passages, scenes, speeches, or sections.
 
-| Verses | Section | Main Idea |
-| --- | --- | --- |
-| vv. __–__ |  |  |
-| vv. __–__ |  |  |
-| vv. __–__ |  |  |
-| vv. __–__ |  |  |
+| Verses    | Section                      | Main Idea                                                                  |
+| --------- | ---------------------------- | -------------------------------------------------------------------------- |
+| vv. 1-8   | Creation of Heaven & Earther | God created the heavens and the earth                                      |
+| vv. 9-25  | Creation of All Things       | God created day and night, sun and star, land, seas, animals and creatures |
+| vv. 26-31 | Creation of Man              | God created man in his image                                               |
 
 ### Flow of the Chapter
 
@@ -119,11 +118,11 @@ Things noticed directly from reading the biblical text **before consulting comme
 
 ### Repeated Words / Phrases
 
-- 
+- "And God saw that it was good."
 
 ### Commands
 
-- 
+- "Let there be light."
 
 ### Promises
 
