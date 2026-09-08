@@ -183,11 +183,11 @@ Study each major section of the chapter separately.
 
 ### Observations
 What does the text actually say?
-- 
+- There was a beginning, and God created the heavens and the earth distinctively, and that the Spirit of God was hovering over darkness.
 
 ### Interpretation
 What does the passage mean in its literary, historical, and biblical context?
-- 
+- God was the beginning, and in the beginning He created time, space, and matter by creating the heavens and the earth. There could be two interpretations about 'earth was without form and void', 1. God created the earth out of nothingness, or 2. there was a gap in the time between verse 1 and 2, where the only until verse 2, God had his spirit over it and started his creation. 
 
 ### Important Words / Phrases
 **Word / Phrase:** 
@@ -237,7 +237,7 @@ What does the passage mean in its literary, historical, and biblical context?
 - 
 
 ### What This Reveals About God
-- 
+- God is eternal and divine. He created time, space, and matter - a beginning which means He was already in the beginning. 
 
 ### What This Reveals About Humanity
 - 
