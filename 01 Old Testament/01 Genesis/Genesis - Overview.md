@@ -14,8 +14,8 @@ cssclasses:
 > **Author/Authorship:** Moses 
 > **Date Written:** 587-538 BCE 
 > **Period Covered:** 4,000 BCE - 1,806 BCE 
-> **Original Audience:**  
-> **Genre:**  
+> **Original Audience:** Nation of Israel (Generation in the Wilderness)  
+> **Genre:** Theological & Historical  
 
 ---
 
@@ -471,6 +471,8 @@ What does this book reveal about God's rule and kingdom?
 
 - **ESV Study Bible**
 - **Bible Hub**
+- **Bible Ref**
+- **Bible.org**
 
 ### Bible Dictionaries / Encyclopedias
 
