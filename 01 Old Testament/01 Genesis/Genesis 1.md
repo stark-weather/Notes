@@ -210,9 +210,12 @@ What does the passage mean in its literary, historical, and biblical context?
 "earth" (אֶרֶץ - erets)
 - broad meaning including "land", "ground", "country", or "territory"
 - referred in [[Genesis 1#Gensis 1:1]] as the entire planet
+	- signifies the whole earth distinct from the heavens
 
 "the heavens and the earth" (בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ - pairing of 'shamayim' and 'erets')
-- 
+- establishing totality of creation under divine authority of God
+
+
 
 ### Historical / Cultural Notes
 - 
