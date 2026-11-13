@@ -7,7 +7,7 @@ cssclasses:
   - bible-overview
 ---
 
-# {{Book Name}} - Overview
+# Genesis  - Overview
 
 > [!summary] Book at a Glance
 > **Book Name:**  Genesis

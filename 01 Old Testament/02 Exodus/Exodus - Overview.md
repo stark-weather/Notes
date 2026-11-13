@@ -1,36 +1,40 @@
-# Book Name
+# Theme
 
-## Author/Authorship
+## Overview 
+What does scripture teach about 'theme' as a whole?
 
-## Date Written 
+## Definition/Scope
+What do I mean by this theme? 
+What is included or excluded?
+## Forms/Expressions of 'Theme'
 
-## Period Covered 
+## Biblical Vocabulary
+See [[Biblical Words for Theme]]
 
-## Original Audience
+## Biblical Development
+How does this theme develop through scripture?
 
-## Purpose/Occasion 
+### Creation
+### Fall
+### Israel/Old Covenant
+### Prophets
+### Jesus
+### Church/New Covenant 
+### New Creation
 
-## Historical Background 
 
-## Cultural Background 
+## Old Testament -> New Testament
+How does the New Testament develop, fulfill, clarify, or apply what appears in the Old Testament?
 
-## Geography 
+## Christ Connection
+Ho does this theme point to, relate to, or find fulfillment in Jesus?
 
-## Genre
+## Major Passages
 
-## Major Characters
+## Related Themes
 
-## Major Themes
+## Key Questions
+Questions I still have about the theme
 
-## Book Structure 
-
-## Timeline 
-
-## Important Places
-
-## Place in the Biblical Story 
-
-## Connections to Other Books 
-
-## Important Interpretive Issues 
 ## Sources
+
